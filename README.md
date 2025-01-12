@@ -45,7 +45,7 @@ A multifunctional Discord bot named "AttaBOT" that I designed with fun commands,
 - **Description:** Randomly selects an option from a list.
 - **Usage:** `-pick option1, option2, option3`
 
-![image](https://github.com/user-attachments/assets/f5c37c09-a9ee-4ccf-9149-3e7939fc45b9)
+  ![image](https://github.com/user-attachments/assets/f5c37c09-a9ee-4ccf-9149-3e7939fc45b9)
 
 ---
 
@@ -54,7 +54,7 @@ A multifunctional Discord bot named "AttaBOT" that I designed with fun commands,
 - **Description:** Makes the bot repeat the provided message.
 - **Usage:** `-say Hello, world!`
 
-![image](https://github.com/user-attachments/assets/250ae7de-d31f-41c9-9966-98a513c5e9b4)
+  ![image](https://github.com/user-attachments/assets/250ae7de-d31f-41c9-9966-98a513c5e9b4)
 
 ---
 
