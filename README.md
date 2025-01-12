@@ -18,7 +18,7 @@ A multifunctional Discord bot named "AttaBOT" that I designed with fun commands,
 - **Command:** `-hello`
 - **Description:** Replies with a friendly "Hello" and mentions the user.
 
-![image](https://github.com/user-attachments/assets/7a2592dd-2895-4213-9004-c837f5b5e988)
+  ![image](https://github.com/user-attachments/assets/7a2592dd-2895-4213-9004-c837f5b5e988)
 
 ---
 
@@ -27,7 +27,7 @@ A multifunctional Discord bot named "AttaBOT" that I designed with fun commands,
 - **Description:** Displays the exact date and time a user joined the server. Defaults to the command issuer if no user is mentioned.
 - **Usage:** `-datejoined @exampleuser`
 
-![image](https://github.com/user-attachments/assets/346998e8-0329-4f0f-9f43-71999d5c6cc0)
+  ![image](https://github.com/user-attachments/assets/346998e8-0329-4f0f-9f43-71999d5c6cc0)
 
 ---
 
