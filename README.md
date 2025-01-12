@@ -1,7 +1,5 @@
 # discord-bot
 
-# AttaBOT
-
 A multifunctional Discord bot named "AttaBOT" that I designed with fun commands, helpful tools, and unique features. 
 
 ## 📚 Stack
